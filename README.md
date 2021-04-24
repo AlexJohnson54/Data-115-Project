@@ -1,9 +1,8 @@
 # Data-115-Project
 
-	Count	Percent
-Continent		
-Europe	3572	65.301645
-Asia	910	16.636197
+Continent Count	Percent		
+Europe	  3572	65.301645
+Asia	  910	16.636197
 North America	822	15.027422
 Russia	57	1.042048
 Australia and Oceania	55	1.005484
