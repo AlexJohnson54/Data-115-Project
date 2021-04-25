@@ -16,4 +16,4 @@ I had to deal with a decent number of missing values as the data set had collect
 
 Visualization
 
-![Country's Resorts](https://user-images.githubusercontent.com/78052697/115977689-0fad6580-a52f-11eb-87ab-72bf96174727.png)
+![Country's Resorts (2)](https://user-images.githubusercontent.com/78052697/115977716-6b77ee80-a52f-11eb-845d-66279f02af6c.png)
