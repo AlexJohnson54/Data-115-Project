@@ -23,3 +23,15 @@ I chose to count the resorts by country to see what country had the highest dens
 ![ContinentResorts (2)](https://user-images.githubusercontent.com/78052697/115977938-2d7bca00-a531-11eb-8f7a-50c52bf83be1.png)
 
 With countries I saw that Germany, USA, and Japan were the top 3 but then I thought about maybe I should do by continent mainly for Europe as I can easily travel between countries that are in Europe like Germany, Switzerland, and Austria which were all in the top 5 of resorts within countries.
+
+Country	Count	Percent
+Germany	715	13.071298
+Japan	597	10.914077
+USA	521	9.524680
+Austria	434	7.934186
+Switzerland	333	6.087751
+Czech Republic	301	5.502742
+Italy	291	5.319927
+Canada	289	5.283364
+Poland	254	4.643510
+France	251	4.588665
