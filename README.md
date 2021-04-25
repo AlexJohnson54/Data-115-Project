@@ -17,3 +17,9 @@ I had to deal with a decent number of missing values as the data set had collect
 Visualization
 
 ![Country's Resorts (2)](https://user-images.githubusercontent.com/78052697/115977716-6b77ee80-a52f-11eb-845d-66279f02af6c.png)
+
+I chose to count the resorts by country to see what country had the highest density of resorts and would allow me to travel amongst different resorts and get a feel of what a country really has to offer. This gave me Germany as the highest cound with Japan and the U.S in second and third.
+
+![ContinentResorts (2)](https://user-images.githubusercontent.com/78052697/115977938-2d7bca00-a531-11eb-8f7a-50c52bf83be1.png)
+
+With countries I saw that Germany, USA, and Japan were the top 3 but then I thought about maybe I should do by continent mainly for Europe as I can easily travel between countries that are in Europe like Germany, Switzerland, and Austria which were all in the top 5 of resorts within countries.
