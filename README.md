@@ -3,12 +3,17 @@
 Repository for Data 115 Personal Project
 
 Motivation
+
 There are two things in the world that I love to do more than anything and those are skiing and traveling. When I can find a way to mix the two together that just creates a perfect scenario for me. This process allows me to take certain parameters and find a way using data to maybe see where I should start when picking where I want to go on my next trip. There are many factors to take into account like would I prefer a trip where I can go to a lot of different ski resorts or a trip where I would stay on one mountain. At the very least I would like to narrow down my options of what area in the world I would like to go to.
 
 Data Source
+
 The data I got was from www.skiresort.info.
 
 Processing Steps
+
 I had to deal with a decent number of missing values as the data set had collected data from the resort’s sites which all have differing details on what the resort would want to include. So what I did from there is found the columns with the largest missing percentages of data and removed a lot of them because when I did a check on what percentage of data was missing it was all the way at 35%. A lot of the missing columns were things like slope preparation, snow reliability, yearly snowfall, as well as the columns about apres skiing. If you don’t know what apres ski is the columns that would fall under that section would be things like hotels, bars, and other commodities that are nearby for vacationers. This removal left us with still a good amount of columns for locations that seem like good viable options for this project. I ended up with finding the columns of continent, country, resort size, and resort difficulty as the most useful columns in the data set after I had done the full cleansing process.
 
 Visualization
+
+![Country's Resorts](https://user-images.githubusercontent.com/78052697/115977689-0fad6580-a52f-11eb-87ab-72bf96174727.png)
