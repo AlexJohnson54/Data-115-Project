@@ -30,6 +30,8 @@ I could not visualize this very well but I found the resorts with the most skiab
 
 There is a mass quantity of ski resorts in Europe so I went in to check the size of the ski resorts and found that the highest peak in the bar graph was a 2.0 size rating with 5.0 being the max which means on average European resorts are smaller but there are more of them.
 
-Conclusion
+I could not visualize this very well but I found the resorts with the most skiable terrain for beginners, intermediate, and advanced skiers. For beginners it was Val Thorens in France, for intermediate it was Le Corbier in France, and for the advanced skiers it was Big Sky resort in Montana, USA.
+
+Analysis
 
 After I look through all of the data and the visualizations it is still a very hard pick on where to travel as Japan, the United States, and Germany have the largest amount of resorts. But, what would differentiate my decision is the fact that if I chose to travel to Germany I also could find it easier to jump to other resorts in other countries and get my money out of my traveling. If I was making the decision purely off of skiing at one resort I would choose Big Sky as that resort has the largest amount of advanced terrain. However, since i also want it to be a vacation and see the world and many resorts I find the data is pointing for me to go to Europe for my travels.
