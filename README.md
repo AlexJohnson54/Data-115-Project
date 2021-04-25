@@ -26,7 +26,7 @@ With countries I saw that Germany, USA, and Japan were the top 3 but then I thou
 
 I could not visualize this very well but I found the resorts with the most skiable terrain for beginners, intermediate, and advanced skiers. For beginners it was Val Thorens in France, for intermediate it was Le Corbier in France, and for the advanced skiers it was Big Sky resort in Montana, USA.
 
-![SkiResortSize](https://user-images.githubusercontent.com/78052697/115978278-08885680-a533-11eb-8ff9-b7e7fb75b9dc.png)
+![SkiResortSize (2)](https://user-images.githubusercontent.com/78052697/115978407-efcc7080-a533-11eb-840b-f19a0cb7fba9.png)
 
 There is a mass quantity of ski resorts in Europe so I went in to check the size of the ski resorts and found that the highest peak in the bar graph was a 2.0 size rating with 5.0 being the max which means on average European resorts are smaller but there are more of them.
 
